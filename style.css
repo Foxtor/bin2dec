@@ -1,0 +1,53 @@
+* {
+    font-family: 'Oswald';
+    font-size: 14px;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.titulo-principal {
+    font-family: 'Oswald';
+    font-size: 2em;
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+.adiciona-binario {
+    margin-top: 1em;
+}
+
+.section-convertidos {
+    margin-top: 3em;
+}
+
+.add_binary {
+    padding: .3em;
+}
+
+thead th {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+tbody th, tbody td {
+    font-weight: normal;
+    padding: .7em 0em;
+	margin: 0;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.naoBinario {
+    font-size: 3em;
+    color: red;
+    margin-top: .5em;
+}
